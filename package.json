@@ -1,0 +1,19 @@
+{
+  "name": "activity3",
+  "version": "1.0.0",
+  "description": "FST Blockchain Activity",
+  "main": "greetings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prachialex/Activity-3.git"
+  },
+  "author": "Prachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prachialex/Activity-3/issues"
+  },
+  "homepage": "https://github.com/prachialex/Activity-3#readme"
+}
