@@ -1,4 +1,4 @@
-//let output="";
+let output="";
 function greet(userType,firstName,lastName="")
 {
     switch(userType)
@@ -12,7 +12,7 @@ function greet(userType,firstName,lastName="")
 	default: output="Enter valid input ";
     break;
 }
-//console.log(output);
-return output;
+console.log(output);
+//return output;
 }
 greet(1,"Prachi");
